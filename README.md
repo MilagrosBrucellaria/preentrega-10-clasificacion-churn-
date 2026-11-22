@@ -85,7 +85,7 @@ pip install -r requirements.txt
 Abrir:
 
 ```text
-modelado_metricas.ipynb
+PreEntrega10-ModeladoyEvaluaciónDeClasificación.ipynb
 ```
 
 y ejecutar las celdas en orden.
@@ -107,7 +107,7 @@ El archivo `Telco-Customer-Churn.csv` debe estar disponible en el mismo director
 ```text
 preentrega-10-clasificacion-churn/
 │
-├── modelado_metricas.ipynb
+├── PreEntrega10-ModeladoyEvaluaciónDeClasificación.ipynb
 ├── Telco-Customer-Churn.csv
 ├── README.md
 ├── requirements.txt
