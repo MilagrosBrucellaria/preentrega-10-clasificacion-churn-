@@ -128,7 +128,7 @@ El repositorio incluye los archivos necesarios para reproducir el análisis.
 Copiar la URL HTTPS del repositorio público de GitHub y ejecutar:
 
 ```bash
-git clone PEGAR_AQUI_LA_URL_HTTPS_DEL_REPOSITORIO
+git clone https://github.com/MilagrosBrucellaria/preentrega-10-clasificacion-churn-.gi
 ```
 
 Luego ingresar al directorio:
